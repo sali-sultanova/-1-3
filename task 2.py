@@ -7,4 +7,4 @@ else:
 for i in range(len(s)):
     if s[i].lower() in "aeiouаоуыиэеёюя":
         vowels += 1
-print("Гласные:", vowels)
+print("Гласныx:", vowels)
